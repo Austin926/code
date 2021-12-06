@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T03:42:50.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="RUWDI39U-DU4-XKkXwtF" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T12:33:47.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="UBU-Qz6rMZcvj_YM2vGS" version="15.8.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="984" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,7 +22,7 @@
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="2WWhqMfIXEdC6ydcztDf-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Get service manager instance" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Get service manager instance" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2WWhqMfIXEdC6ydcztDf-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -40,13 +40,13 @@
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2WWhqMfIXEdC6ydcztDf-13" target="2WWhqMfIXEdC6ydcztDf-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2WWhqMfIXEdC6ydcztDf-13" value="Get service binding of the service manager" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2WWhqMfIXEdC6ydcztDf-13" value="Get service binding of the service manager" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="410" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2WWhqMfIXEdC6ydcztDf-20" target="AL-K3FLNHTH_PAHw_eu2-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2WWhqMfIXEdC6ydcztDf-20" value="Write credentials of service binding in vault" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2WWhqMfIXEdC6ydcztDf-20" value="Write credentials of service manager in vault" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="530" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2WWhqMfIXEdC6ydcztDf-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Setup landscape&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2WWhqMfIXEdC6ydcztDf-25" target="2WWhqMfIXEdC6ydcztDf-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2WWhqMfIXEdC6ydcztDf-25" value="List HANA cloud instances" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2WWhqMfIXEdC6ydcztDf-25" value="Get HANA cloud instances" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="168.75" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2WWhqMfIXEdC6ydcztDf-26" value="Delete HANA Cloud Instances" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="2WWhqMfIXEdC6ydcztDf-52" value="&lt;font style=&quot;font-size: 11px&quot;&gt;No&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="830" y="148" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2WWhqMfIXEdC6ydcztDf-53" value="&lt;p style=&quot;line-height: 1 ; font-size: 12px&quot;&gt;Created &lt;br&gt;through?&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2WWhqMfIXEdC6ydcztDf-53" value="&lt;p style=&quot;line-height: 1 ; font-size: 12px&quot;&gt;Created &lt;br&gt;through&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="993" y="132" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2WWhqMfIXEdC6ydcztDf-55" value="&lt;p style=&quot;line-height: 1; font-size: 11px;&quot;&gt;SM&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -118,11 +118,8 @@
         <mxCell id="2WWhqMfIXEdC6ydcztDf-57" value="Delete subaccounts&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="770" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2WWhqMfIXEdC6ydcztDf-60" value="Register service broker" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2WWhqMfIXEdC6ydcztDf-60" value="Register service broker until&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="770" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2WWhqMfIXEdC6ydcztDf-63" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Do we need to check whether service brokers &lt;br&gt;has been registered or not?&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="790" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2WWhqMfIXEdC6ydcztDf-66" value="Vault" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="60" width="50" height="30" as="geometry" />
@@ -174,7 +171,7 @@
           <mxGeometry x="270" y="311" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-9" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create service binding of service manger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="401" width="90" height="30" as="geometry" />
+          <mxGeometry x="360" y="401" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="421" width="90" height="57.5" as="geometry" />
@@ -208,6 +205,33 @@
         </mxCell>
         <mxCell id="AL-K3FLNHTH_PAHw_eu2-19" value="Create other service instances" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="650" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Service manager&lt;br style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Instance ID&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="369.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Service manager&lt;br style=&quot;font-size: 10px&quot;&gt;credentials&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="489.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-46" value="landscape = &lt;br&gt;subaccount name" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="121" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-47" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Register service broker&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-48" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="780" width="130" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-49" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Continue&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="820" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-50" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="760" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-51" value="&lt;p style=&quot;line-height: 1; font-size: 11px;&quot;&gt;Yes&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="810" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-K3FLNHTH_PAHw_eu2-52" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Registered?&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="268" y="790" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
